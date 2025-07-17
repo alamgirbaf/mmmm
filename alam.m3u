@@ -22,3 +22,9 @@ https://live.sanonda.tv/sanonda/tracks-v1a1/mono.m3u8
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png" group-title="BANGLA",Somoy  TV
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://freeiptv25.netlify.app/images/star-jalsha-movies.jpg" group-title="BANGLA",Jalsha Movies HD
+http://103.122.74.6:8888/hls/JALSHA.MOVIES.HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bN8xWbG/COLORSBANGLA.png" group-title="BANGLA",Colors Bangla FHD
+http://103.122.74.6:8888/hls/COLORS.BANGLA.HD.m3u8
+#EXTINF:-1 tvg-id="04" tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BANGLA",DipTo TV
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
