@@ -2,3 +2,23 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02zYKq57/Sananda-TV-logo-2011.png" group-title="Indian Bangla",Sananda TV
 https://live.sanonda.tv/sanonda/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" group-title="Indian Bangla",ZEE Bangla HD
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" group-title="Indian Bangla",Star Jalsha HD
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYG82K2H/52c90e7b-b744-48bd-9c29-cdddd8977921.jpg" group-title="Indian Bangla",Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrWrJTPW/58Mkc4.png" group-title="Indian Bangla",Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGtYZCb2/ZVro-V3u-400x400.jpg" group-title="Indian Bangla",Zee Bangla Cinema
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQfFqGk9bSdbY1-07pT11gE5m49IGFWDbUg&usqp=CAU" group-title="Indian Bangla",BANGLA PLUS HD
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla",43.Sun Bangla Movie
+http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02zYKq57/Sananda-TV-logo-2011.png" group-title="Indian Bangla",Sananda TV
+https://live.sanonda.tv/sanonda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpgvGbFD/Tarabc.jpg" group-title="Indian Bangla",Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png" group-title="BANGLA",Somoy  TV
+http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
